@@ -18,7 +18,7 @@ QA Engineer with 7 years of experience in the IT market, providing extensive exp
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://www.instagram.com/jacksonhmt/" alt="Instagram">
+  <a href="https://www.instagram.com/jacksonteixeiraqa/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
